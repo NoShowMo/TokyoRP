@@ -31,11 +31,11 @@ We primarily use **GitHub Issues** to track feedback and suggestions. Here's how
 
 **Types of Feedback We Welcome:**
 
-*   **🐛 Bug Reports:** Found something broken, glitchy, or not working as intended?
-*   **💡 Feature Suggestions:** Have a great idea for a new feature, item, mechanic, event, or area?
-*   **⚖️ Balancing Feedback:** Thoughts on the economy, job payouts, item prices, rules, etc.?
-*   **🗺️ World/Map Issues:** Found an issue with the map build, a broken sign, or an area that needs improvement?
-*   **🤔 General Feedback:** Overall thoughts on gameplay, community, events, or the server experience.
+*   **Bug Reports:** Found something broken, glitchy, or not working as intended?
+*   **Feature Suggestions:** Have a great idea for a new feature, item, mechanic, event, or area?
+*   **Balancing Feedback:** Thoughts on the economy, job payouts, item prices, rules, etc.?
+*   **World/Map Issues:** Found an issue with the map build, a broken sign, or an area that needs improvement?
+*   **General Feedback:** Overall thoughts on gameplay, community, events, or the server experience.
 
 ---
 
@@ -58,7 +58,6 @@ To make feedback as effective as possible, please try to follow these guidelines
 Connect with the TokyoRP community and find more information here:
 
 *   **<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="16"/> Discord Server:** [**Join our Community!**](https://discord.gg/FRjnNeUg) *(<- Replace with your actual Discord invite link)*
-*   **🖥️ Server IP:** `YOUR_SERVER_IP.com` *(<- Replace with your server IP or connection info)*
 *   **🌐 Website (Optional):** [Visit our Website](YOUR_WEBSITE_LINK) *(<- Replace if you have one)*
 *   **🗺️ Dynmap/Map (Optional):** [View the Live Map](YOUR_MAP_LINK) *(<- Replace if you have one)*
 *   **📜 Rules (Optional):** [Read the Server Rules](https://discord.com/channels/1237025322655027200/1237027073995046985) *(<- Link to rules page/doc)*

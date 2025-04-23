@@ -61,7 +61,7 @@ Connect with the TokyoRP community and find more information here:
 *   **🖥️ Server IP:** `YOUR_SERVER_IP.com` *(<- Replace with your server IP or connection info)*
 *   **🌐 Website (Optional):** [Visit our Website](YOUR_WEBSITE_LINK) *(<- Replace if you have one)*
 *   **🗺️ Dynmap/Map (Optional):** [View the Live Map](YOUR_MAP_LINK) *(<- Replace if you have one)*
-*   **📜 Rules (Optional):** [Read the Server Rules](LINK_TO_RULES) *(<- Link to rules page/doc)*
+*   **📜 Rules (Optional):** [Read the Server Rules](https://discord.com/channels/1237025322655027200/1237027073995046985) *(<- Link to rules page/doc)*
 
 ---
 
